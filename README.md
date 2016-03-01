@@ -35,9 +35,6 @@ After installing the `Phpcs` package, go to Sublime Text > Preferences > Package
 
 			// this allows us to continue to use tabs (part of our standard)
 			"--tab-width": "4",
-
-			// this silences notices and yells only about important stuff
-			"-n": ""
 		},
 
 		// self-explanatory
